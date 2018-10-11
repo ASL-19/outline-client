@@ -20,7 +20,7 @@ To bulid controller daeman clone the outline client repo
     
 To run 
 
-    sudo ./OutlineProxyController /var/run/outline_controller [-d]
+    sudo ./OutlineProxyController -s/var/run/outline_controller [-d]
         
 Using -d runs the controller in the daemon mode.
 
